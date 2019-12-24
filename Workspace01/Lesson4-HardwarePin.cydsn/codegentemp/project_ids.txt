@@ -1,0 +1,9 @@
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lession1-OutputPin.cydsn\Lession1-OutputPin.cyprj|1be1b80b-0ba9-4a00-b299-335790ba9772
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|d102d376-f1b2-43bc-8f99-cdd9a96b423d
+C:\Users\wl\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|ec4d16de-2080-43de-ad80-b46c3b8039ee
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|3b1328f1-d141-468f-801f-ffe33f3e175e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ef7ee3f3-fb33-4549-a2b6-7af0fbac3e59
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|81a49a34-5f89-4e6f-910c-eb2ec91e8556
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson2-InputPin.cydsn\Lesson2-InputPin.cyprj|68d0ce51-caf7-4c29-99bf-4580988fe52c
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson3-Interrupt.cydsn\Lesson3-Interrupt.cyprj|5c1f1a56-a6d2-4b16-be6d-afac196fdce0
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson4-HardwarePin.cydsn\Lesson4-HardwarePin.cyprj|260d24a5-757a-45bb-a2a6-e04766e39709
