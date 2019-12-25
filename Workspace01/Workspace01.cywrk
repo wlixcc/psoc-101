@@ -3,14 +3,21 @@
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
 <CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="Workspace01" persistent="Workspace01.cywrk" platform="NOT_USED">
-<current_project name=".\Lesson4-HardwarePin.cydsn\Lesson4-HardwarePin.cyprj" />
+<current_project name=".\Lesson11-I2C-Transmit.cydsn\Lesson11-I2C-Transmit.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
-<v>.\Lession1-OutputPin.cydsn\Lession1-OutputPin.cyprj</v>
-<v>.\Lesson2-InputPin.cydsn\Lesson2-InputPin.cyprj</v>
-<v>.\Lesson3-Interrupt.cydsn\Lesson3-Interrupt.cyprj</v>
-<v>.\Lesson4-HardwarePin.cydsn\Lesson4-HardwarePin.cyprj</v>
+<v>.\Lession01-OutputPin.cydsn\Lession01-OutputPin.cyprj</v>
+<v>.\Lesson02-InputPin.cydsn\Lesson02-InputPin.cyprj</v>
+<v>.\Lesson03-Interrupt.cydsn\Lesson03-Interrupt.cyprj</v>
+<v>.\Lesson04-HardwarePin.cydsn\Lesson04-HardwarePin.cyprj</v>
+<v>.\Lesson05-Toggle Flip-Flop.cydsn\Lesson05-Toggle Flip-Flop.cyprj</v>
+<v>.\Lesson06-Basic Counter.cydsn\Lesson06-Basic Counter.cyprj</v>
+<v>.\Lesson07-Counter.cydsn\Lesson07-Counter.cyprj</v>
+<v>.\Lesson08-PWM.cydsn\Lesson08-PWM.cyprj</v>
+<v>.\Lesson09-Timer.cydsn\Lesson09-Timer.cyprj</v>
+<v>.\Lesson10-I2C.cydsn\Lesson10-I2C.cyprj</v>
+<v>.\Lesson11-I2C-Transmit.cydsn\Lesson11-I2C-Transmit.cyprj</v>
 </projects>
 <workspace_id v="838e946b-63fe-4966-8e51-de861d98c467" />
 <WriteAppVersionLastSavedWith v="4.2.0.641" />

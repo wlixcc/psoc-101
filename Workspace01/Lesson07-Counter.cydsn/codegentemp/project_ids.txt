@@ -1,0 +1,12 @@
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lession1-OutputPin.cydsn\Lession1-OutputPin.cyprj|2289e381-7db9-4eec-9dcb-f5cc21d889cb
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|fb1364f3-58a8-475f-bee7-bde9718115d7
+C:\Users\wl\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|695f3d0d-17ca-49b6-8bc1-020ce0d25428
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e617af44-f2cf-4484-8fb2-f9da76100a89
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|9af81e1f-6f2c-4cae-a82a-45a1cbee5069
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ab28b234-b6c7-4448-a072-e35c1b553a7d
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson2-InputPin.cydsn\Lesson2-InputPin.cyprj|15997671-2625-433e-84b3-1c61522a863a
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson3-Interrupt.cydsn\Lesson3-Interrupt.cyprj|1d5bc602-da7e-4782-82ce-cea682c07d68
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson4-HardwarePin.cydsn\Lesson4-HardwarePin.cyprj|1485cd91-e49e-4adb-8cf1-06f9e207b973
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson5-Toggle Flip-Flop.cydsn\Lesson5-Toggle Flip-Flop.cyprj|678fb627-8cb6-4280-af00-878961842d38
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson6-Basic Counter.cydsn\Lesson6-Basic Counter.cyprj|cc2909cd-e987-490f-9a8c-aaa60e21ddce
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson7-Counter.cydsn\Lesson7-Counter.cyprj|c1f56e39-60d2-4c63-8104-543109922114
