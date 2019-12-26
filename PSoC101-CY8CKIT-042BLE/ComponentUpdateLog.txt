@@ -1,0 +1,29 @@
+Last Modified Date & Time: 12/26/2019 11:31:36
+
+13-CapSense-Test: 13-CapSense-Test.cydwr
+	cy_boot [v5.0] to [v5.80]
+	cy_lfclk [v1.0] to [v1.20]
+	Em_EEPROM_Dynamic [v2.0] to [v2.20]
+	LIN_Dynamic [v3.20] to [v5.0]
+
+13-CapSense-Test: TopDesign.cysch
+	CapSense [v2.20] to [v2.60]
+	UART [v3.0] to [v4.0]
+
+
+Last Modified Date & Time: 12/26/2019 11:54:32
+
+14-StatusRegister: 14-StatusRegister.cydwr
+	cy_boot [v5.0] to [v5.80]
+	cy_lfclk [v1.0] to [v1.20]
+	Em_EEPROM_Dynamic [v2.0] to [v2.20]
+	LIN_Dynamic [v3.20] to [v5.0]
+
+14-StatusRegister: TopDesign.cysch
+	Pin_Blue [v2.10] to [v2.20]
+	Pin_Green [v2.10] to [v2.20]
+	Pin_Red [v2.10] to [v2.20]
+	Pin_SW2 [v2.10] to [v2.20]
+	UART [v3.0] to [v4.0]
+
+

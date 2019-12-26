@@ -1,0 +1,39 @@
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\03-Interrupts-Test.cydsn\03-Interrupts-Test.cyprj|72eb0698-7943-4ac2-bdc5-26830349291f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|001962be-f79e-4308-b142-9a655f447b36
+C:\Users\wl\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|f9d7aa1b-52ed-43df-8963-64c1485f8bd2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|2d9a128f-38a2-4748-9e87-d179b3f05da5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|4744cc7b-25d3-4c1e-9c7f-5e2cc39728c7
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|5df4eabb-94e9-4a5e-b6e8-27633c295b43
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\03-Interrupts.cydsn\03-Interrupts.cyprj|38a5b74c-6e2e-40ca-b574-b399e577f7c1
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\01-SoftwareOutputPins.cydsn\01-SoftwareOutputPins.cyprj|7fb8c8d8-0495-4ee7-bf57-949347669f43
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\01-SoftwareOutputPins-Test.cydsn\01-SoftwareOutputPins-Test.cyprj|3e53961a-5638-4227-a05f-af3ca8c1f280
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\02-SoftwareInputPins.cydsn\02-SoftwareInputPins.cyprj|c9a3ac8f-8425-4d8a-a8fc-cc370eb5d01a
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\02-SoftwareInputPins-Test.cydsn\02-SoftwareInputPins-Test.cyprj|5495fc65-cb51-493e-a3bf-0a7a4ef868d0
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\04-HardwarePins.cydsn\04-HardwarePins.cyprj|1288785b-c4e0-4981-9670-a4396a52d8bb
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\04-HardwarePins-Test.cydsn\04-HardwarePins-Test.cyprj|b4d411a2-9bfc-4b1f-b63a-784780ed0267
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\05-ToggleFlipFlop.cydsn\05-ToggleFlipFlop.cyprj|06f9922e-79ec-4706-aa5b-1379be79f91b
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\05-ToggleFlipFlop-Test.cydsn\05-ToggleFlipFlop-Test.cyprj|80a42639-e609-41f2-b9ac-e7f19ec1d565
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\14-StatusRegister.cydsn\14-StatusRegister.cyprj|eef4222b-d893-4f69-90c4-78e1d0cc7854
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\07-Counter.cydsn\07-Counter.cyprj|d360cbbe-a5d1-4d03-897a-d03583f5f45b
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\07-Counter-Test.cydsn\07-Counter-Test.cyprj|d10ab876-30b1-4dfe-ac55-c61dd5b23073
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\08-PulseWidthModulator.cydsn\08-PulseWidthModulator.cyprj|934994a8-2f90-40bb-a67c-095e7c1e28fd
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\08-PulseWidthModulator-Test.cydsn\08-PulseWidthModulator-Test.cyprj|d9c1bb23-b379-4b19-937e-f5b8a5040d46
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\09-Timer.cydsn\09-Timer.cyprj|a7c31c42-93e2-40af-ac9f-180e3285d438
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\09-Timer-Test.cydsn\09-Timer-Test.cyprj|cf17e326-ff9e-4ae5-815f-5ee0f9b7060b
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\10-I2CReceive.cydsn\10-I2CReceive.cyprj|5fe25256-555f-41dc-8d0f-559c712f039d
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\10-I2CReceive-Test.cydsn\10-I2CReceive-Test.cyprj|e1747f42-840c-4197-ae9b-bbba171d23fb
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\11-I2CTransmit.cydsn\11-I2CTransmit.cyprj|2d6ffb53-b0b7-4b73-9efb-fe2c549cb9b5
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\11-I2CTransmit-Test.cydsn\11-I2CTransmit-Test.cyprj|1cd0cbef-92fd-4828-aba7-75bb4be2ba0a
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\12-UART.cydsn\12-UART.cyprj|1d3ca273-9ea0-4340-9f67-40acfd1c1e19
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\12-UART-Test.cydsn\12-UART-Test.cyprj|004fbd6d-a395-4ce9-86bd-9f12218ecf84
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\13-CapSense.cydsn\13-CapSense.cyprj|899a36d3-4129-4bb2-ad71-ecc0eceb3d70
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\13-CapSense-Test.cydsn\13-CapSense-Test.cyprj|22240182-4cc3-4f12-9ab3-8379217e28a2
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\14-StatusRegister-Test.cydsn\14-StatusRegister-Test.cyprj|4a8b646f-07f6-4478-861d-3bc042067cad
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\06-BasicCounter.cydsn\06-BasicCounter.cyprj|b6203e04-70fd-4f50-b425-11164c850498
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\06-BasicCounter-Test.cydsn\06-BasicCounter-Test.cyprj|55f9f044-c555-49da-b8a6-5b048264668d
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\15-ControlRegister.cydsn\15-ControlRegister.cyprj|c47dd58c-0052-47fe-af92-75f85aa71b0b
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\15-ControlRegister-Test.cydsn\15-ControlRegister-Test.cyprj|8abed19c-e6a5-4a3a-ada3-4e9170c11e4b
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\16-Sleep-Test.cydsn\16-Sleep-Test.cyprj|a126ab4a-0647-4cd7-89b7-e299577c3673
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\16-Sleep.cydsn\16-Sleep.cyprj|142153ab-341a-4140-bdaf-e4cca0e0c84d
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\17-DeepSleep.cydsn\17-DeepSleep.cyprj|de2d6f41-a791-4b64-bad8-8f2fe237fbdf
+C:\Users\wl\Desktop\cypressResource\projects\PSoC101-CY8CKIT-042BLE\17-DeepSleep-Test.cydsn\17-DeepSleep-Test.cyprj|26803252-b16d-4dc8-9055-43f9bfb2c45d

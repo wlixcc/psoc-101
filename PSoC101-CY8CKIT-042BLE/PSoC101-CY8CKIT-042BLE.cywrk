@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="PSoC101-CY8CKIT-042BLE" persistent="PSoC101-CY8CKIT-042BLE.cywrk" platform="NOT_USED">
+<current_project name=".\13-CapSense-Test.cydsn\13-CapSense-Test.cyprj" />
+<wrkspc_folders />
+<files>
+<CyGuid_8b8ab257-35d3-4473-b57b-36315200b38b type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtFileSerialize" version="3" xml_contents_version="1">
+<CyGuid_31768f72-0253-412b-af77-e7dba74d1330 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtItemSerialize" version="2" name="README.txt" persistent="README.txt">
+<Hidden v="False" />
+</CyGuid_31768f72-0253-412b-af77-e7dba74d1330>
+<build_action v="OTHER;;;;" />
+<PropertyDeltas />
+</CyGuid_8b8ab257-35d3-4473-b57b-36315200b38b>
+</files>
+<projects>
+<v>.\03-Interrupts-Test.cydsn\03-Interrupts-Test.cyprj</v>
+<v>.\03-Interrupts.cydsn\03-Interrupts.cyprj</v>
+<v>.\01-SoftwareOutputPins.cydsn\01-SoftwareOutputPins.cyprj</v>
+<v>.\01-SoftwareOutputPins-Test.cydsn\01-SoftwareOutputPins-Test.cyprj</v>
+<v>.\02-SoftwareInputPins.cydsn\02-SoftwareInputPins.cyprj</v>
+<v>.\02-SoftwareInputPins-Test.cydsn\02-SoftwareInputPins-Test.cyprj</v>
+<v>.\04-HardwarePins.cydsn\04-HardwarePins.cyprj</v>
+<v>.\04-HardwarePins-Test.cydsn\04-HardwarePins-Test.cyprj</v>
+<v>.\05-ToggleFlipFlop.cydsn\05-ToggleFlipFlop.cyprj</v>
+<v>.\05-ToggleFlipFlop-Test.cydsn\05-ToggleFlipFlop-Test.cyprj</v>
+<v>.\14-StatusRegister.cydsn\14-StatusRegister.cyprj</v>
+<v>.\07-Counter.cydsn\07-Counter.cyprj</v>
+<v>.\07-Counter-Test.cydsn\07-Counter-Test.cyprj</v>
+<v>.\08-PulseWidthModulator.cydsn\08-PulseWidthModulator.cyprj</v>
+<v>.\08-PulseWidthModulator-Test.cydsn\08-PulseWidthModulator-Test.cyprj</v>
+<v>.\09-Timer.cydsn\09-Timer.cyprj</v>
+<v>.\09-Timer-Test.cydsn\09-Timer-Test.cyprj</v>
+<v>.\10-I2CReceive.cydsn\10-I2CReceive.cyprj</v>
+<v>.\10-I2CReceive-Test.cydsn\10-I2CReceive-Test.cyprj</v>
+<v>.\11-I2CTransmit.cydsn\11-I2CTransmit.cyprj</v>
+<v>.\11-I2CTransmit-Test.cydsn\11-I2CTransmit-Test.cyprj</v>
+<v>.\12-UART.cydsn\12-UART.cyprj</v>
+<v>.\12-UART-Test.cydsn\12-UART-Test.cyprj</v>
+<v>.\13-CapSense.cydsn\13-CapSense.cyprj</v>
+<v>.\13-CapSense-Test.cydsn\13-CapSense-Test.cyprj</v>
+<v>.\14-StatusRegister-Test.cydsn\14-StatusRegister-Test.cyprj</v>
+<v>.\06-BasicCounter.cydsn\06-BasicCounter.cyprj</v>
+<v>.\06-BasicCounter-Test.cydsn\06-BasicCounter-Test.cyprj</v>
+<v>.\15-ControlRegister.cydsn\15-ControlRegister.cyprj</v>
+<v>.\15-ControlRegister-Test.cydsn\15-ControlRegister-Test.cyprj</v>
+<v>.\16-Sleep-Test.cydsn\16-Sleep-Test.cyprj</v>
+<v>.\16-Sleep.cydsn\16-Sleep.cyprj</v>
+<v>.\17-DeepSleep.cydsn\17-DeepSleep.cyprj</v>
+<v>.\17-DeepSleep-Test.cydsn\17-DeepSleep-Test.cyprj</v>
+</projects>
+<workspace_id v="a0daee76-8746-4b66-b9fa-d9073e9226dc" />
+<WriteAppVersionLastSavedWith v="4.2.0.641" />
+<WriteAppMarketingVersionLastSavedWith v="4.2" />
+<CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
+<wrkspc_dependencies />
+</CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
+<CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyIgnoredSystemDepsList" version="1">
+<wrkspc_dependencies />
+</CyGuid_63b68103-67f5-4406-8da6-5c8625765b82>
+</CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd>
+</CyXmlSerializer>

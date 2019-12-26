@@ -1,0 +1,1406 @@
+Archive member included to satisfy reference by file (symbol)
+
+.\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+                              .\CortexM0\ARM_GCC_541\Debug\main.o (UART_Start)
+.\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+                              .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o) (UART_UartInit)
+.\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                              .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o (CyIntEnable)
+.\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+                              .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o (CySysClkWcoStart)
+.\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                              .\CortexM0\ARM_GCC_541\Debug\main.o (CapSense_IsBusy)
+.\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                              .\CortexM0\ARM_GCC_541\Debug\main.o (CapSense_InitializeAllBaselines)
+.\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+                              .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o) (CapSense_ISR)
+.\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+                              .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o) (CapSense_UpdateThresholds)
+.\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+                              .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o) (CapSense_SampleClk_StartEx)
+.\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+                              .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o) (CapSense_SenseClk_StartEx)
+.\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyBootAsmGnu.o)
+                              .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o (CyDelayCycles)
+.\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+                              .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o) (UART_SpiUartReadRxData)
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+                              .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o) (CalibrateSensors_P4_v2_60)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+                              .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o) (__aeabi_uidiv)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_divsi3.o)
+                              .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o) (__aeabi_idiv)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+                              c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+                              .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o (__errno)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+                              c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+                              c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+                              c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+
+Allocating common symbols
+Common symbol       size              file
+
+CapSense_noiseThreshold
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+CapSense_csdTrim1   0x1               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+CapSense_scanSpeedTbl
+                    0x1               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+CapSense_lowBaselineResetCnt
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+CapSense_runningDifferenceTbl
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+CapSense_sensorEnableMaskBackup
+                    0x1               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+CapSense_senseClkDividerVal
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+CapSense_negativeNoiseThreshold
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+CapSense_signRegisterTbl
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+CapSense_modulationIDAC
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+CapSense_compensationIDAC
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+CapSense_sampleMaxTbl
+                    0x4               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+CapSense_noiseEnvelopeTbl
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+CapSense_unscannedSnsDriveMode
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+CapSense_sampleClkDividerVal
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+CapSense_previousSampleTbl
+                    0x4               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+CapSense_sampleMinTbl
+                    0x4               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+CapSense_config     0xc               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+CapSense_rawFilterData1
+                    0x4               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+CapSense_kValueTbl  0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+CapSense_hysteresis
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+CapSense_fingerThreshold
+                    0x2               .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .text          0x00000000       0x78 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\main.o
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\main.o
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\main.o
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .data          0x00000000        0x4 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .text._exit    0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .text._sbrk    0x00000000       0x30 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .text.UART_ScbModeStop
+                0x00000000        0x8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .text.UART_Stop
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .text.UART_SetRxFifoLevel
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .text.UART_SetTxFifoLevel
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text.UART_UartStop
+                0x00000000       0x2c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text.UART_UartSetRxAddress
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text.UART_UartSetRxAddressMask
+                0x00000000       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text.UART_UartGetChar
+                0x00000000       0x2c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text.UART_UartGetByte
+                0x00000000       0x34 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text.UART_UartSetRtsPolarity
+                0x00000000       0x28 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text.UART_UartSetRtsFifoLevel
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text.UART_UartPutCRLF
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text.UART_UartEnableCts
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text.UART_UartDisableCts
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text.UART_UartSetCtsPolarity
+                0x00000000       0x28 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text.UART_UartSendBreakBlocking
+                0x00000000       0x58 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .bss           0x00000000       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysClkImoStart
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysClkImoStop
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysClkWriteHfclkDirect
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysEnablePumpClock
+                0x00000000       0x38 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysClkGetSysclkSource
+                0x00000000       0x1c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysClkWriteSysclkDiv
+                0x00000000       0x30 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysClkEcoStop
+                0x00000000       0x24 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysLvdDisable
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysLvdGetInterruptSource
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysLvdClearInterrupt
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysGetResetReason
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CyDisableInts
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CyEnableInts
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CyIntGetState
+                0x00000000       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CyIntSetPending
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysClkWriteEcoDiv
+                0x00000000       0x38 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CyIntSetSysVector
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CyIntGetSysVector
+                0x00000000       0x1c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CyIntGetVector
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CyIntGetPriority
+                0x00000000       0x2c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySoftwareReset
+                0x00000000       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CyDelay  0x00000000       0x30 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysLvdEnable
+                0x00000000       0x44 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CyDelayFreq
+                0x00000000       0x4c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickStop
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickEnableInterrupt
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickEnable
+                0x00000000       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickDisableInterrupt
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickSetReload
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickGetReload
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickGetValue
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickSetClockSource
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickGetClockSource
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickGetCountFlag
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickServiceCallbacks
+                0x00000000       0x28 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickClear
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickInit
+                0x00000000       0x44 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickStart
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickSetCallback
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysTickGetCallback
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CyGetUniqueId
+                0x00000000       0x70 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysSetRamAccessArbPriority
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysSetFlashAccessArbPriority
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysSetDmacAccessArbPriority
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text.CySysSetPeripheralAccessArbPriority
+                0x00000000       0x68 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkIloEnabled
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkGetLfclkSource
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkIloStart
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkIloStartMeasurement
+                0x00000000       0x5c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkIloStopMeasurement
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkIloCompensate
+                0x00000000      0x104 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkIloUpdateTrimReg
+                0x00000000       0xa8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkIloTrim
+                0x00000000       0xd8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkIloRestoreFactoryTrim
+                0x00000000       0x30 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkWcoEnabled
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkWcoClockOutSelect
+                0x00000000       0x2c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtGetEnabledStatus
+                0x00000000       0x24 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtSetMode
+                0x00000000       0x38 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkLfclkPosedgeRestore
+                0x00000000       0x2c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtGetMode
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtSetClearOnMatch
+                0x00000000       0x34 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtGetClearOnMatch
+                0x00000000       0x24 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtEnable
+                0x00000000       0x3c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtDisable
+                0x00000000       0x44 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtSetCascade
+                0x00000000       0x34 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtGetCascade
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtSetMatch
+                0x00000000       0x54 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtSetToggleBit
+                0x00000000       0x30 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtGetToggleBit
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtGetMatch
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtGetCount
+                0x00000000       0x3c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkLfclkPosedgeCatch
+                0x00000000       0x74 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkIloStop
+                0x00000000       0x4c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkSetLfclkSource
+                0x00000000       0x38 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkWcoStop
+                0x00000000       0x48 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtGetInterruptSource
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtResetCounters
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtSetInterruptCallback
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtGetInterruptCallback
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtEnableCounterIsr
+                0x00000000       0x34 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWdtDisableCounterIsr
+                0x00000000       0x28 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysWatchdogFeed
+                0x00000000       0x60 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysTimerDelayUntilMatch
+                0x00000000       0x6c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysTimerDelay
+                0x00000000       0x3c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .rodata        0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_Stop
+                0x00000000       0x2c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_WriteSensorRaw
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_SetScanResolution
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_GetScanResolution
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_SetPinDriveMode
+                0x00000000       0x24 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_SetDriveModeAllPins
+                0x00000000       0x30 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_RestoreDriveModeAllPins
+                0x00000000       0x1c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_EnableShieldElectrode
+                0x00000000       0x34 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_ReadCurrentScanningSensor
+                0x00000000       0x1c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_ScanWidget
+                0x00000000       0x8c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_GetSenseClkDivider
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_SetSenseClkDivider
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_GetModulatorClkDivider
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_SetModulatorClkDivider
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_GetModulationIDAC
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_SetModulationIDAC
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_GetCompensationIDAC
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_SetCompensationIDAC
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_GetIDACRange
+                0x00000000       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text.CapSense_SetIDACRange
+                0x00000000       0x28 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_InitializeEnabledBaselines
+                0x00000000       0x30 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_GetBaselineData
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_SetBaselineData
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_GetDiffCountData
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_SetDiffCountData
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_GetFingerThreshold
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_GetNoiseThreshold
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_GetFingerHysteresis
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_GetNegativeNoiseThreshold
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_SetFingerThreshold
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_SetNoiseThreshold
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_SetFingerHysteresis
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_SetNegativeNoiseThreshold
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_SetDebounce
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_SetLowBaselineReset
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_CheckIsAnyWidgetActive
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_EnableWidget
+                0x00000000       0x2c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_DisableWidget
+                0x00000000       0x2c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_MedianFilter
+                0x00000000       0x1c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_UpdateWidgetBaseline
+                0x00000000       0x30 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_GetWidgetNumber
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_GetLowBaselineReset
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_GetDebounce
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_EnableRawDataFilters
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text.CapSense_DisableRawDataFilters
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .text.CapSense_SetSensitivity
+                0x00000000       0x1c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .text.CapSense_GetSensitivityCoefficient
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .text.CapSense_GetNoiseEnvelope
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .text.CapSense_GetNormalizedDiffCountData
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .text.CapSense_SampleClk_GetDividerRegister
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .text.CapSense_SampleClk_GetFractionalDividerRegister
+                0x00000000        0x4 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .text.CapSense_SenseClk_GetDividerRegister
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .text.CapSense_SenseClk_GetFractionalDividerRegister
+                0x00000000        0x4 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyBootAsmGnu.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyBootAsmGnu.o)
+ .text          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .data          0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .bss           0x00000000        0x0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .text.UART_SpiUartReadRxData
+                0x00000000        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .text.UART_SpiUartGetRxBufferSize
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .text.UART_SpiUartClearRxBuffer
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .text.UART_SpiUartPutArray
+                0x00000000       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .text.UART_SpiUartGetTxBufferSize
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .text.UART_SpiUartClearTxBuffer
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .text.UART_SpiUartDisableIntRx
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .text.UART_SpiUartDisableIntTx
+                0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .text          0x00000000        0x0 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x2c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x00000000         0x00040000         xr
+ram              0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+START GROUP
+LOAD .\CortexM0\ARM_GCC_541\Debug\main.o
+LOAD .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+LOAD .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+LOAD .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+LOAD .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a
+LOAD C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+END GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+START GROUP
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libc.a
+LOAD c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+END GROUP
+                0x00000000                CY_APPL_ORIGIN = 0x0
+                0x00000100                CY_FLASH_ROW_SIZE = 0x100
+                0x00000001                CY_APPL_NUM = 0x1
+                0x00000001                CY_APPL_MAX = 0x1
+                0x00000040                CY_METADATA_SIZE = 0x40
+                0x00000000                CY_APPL_LOADABLE = 0x0
+                0x00000000                CY_CHECKSUM_EXCLUDE_SIZE = ALIGN (0x0, CY_FLASH_ROW_SIZE)
+                0x00000000                CY_APP_FOR_STACK_AND_COPIER = 0x0
+                [!provide]                PROVIDE (__cy_heap_start, _end)
+                0x00000001                PROVIDE (__cy_region_num, ((__cy_regions_end - __cy_regions) / 0x10))
+                0x20008000                PROVIDE (__cy_stack, (ORIGIN (ram) + LENGTH (ram)))
+                [!provide]                PROVIDE (__cy_heap_end, (__cy_stack - 0x800))
+
+.cybootloader   0x00000000        0x0
+ *(.cybootloader)
+                0x00000000                appl1_start = CY_APPL_ORIGIN?CY_APPL_ORIGIN:ALIGN (CY_FLASH_ROW_SIZE)
+                0x0001ff00                appl2_start = (appl1_start + ALIGN ((((LENGTH (rom) - appl1_start) - (0x2 * CY_FLASH_ROW_SIZE)) / 0x2), CY_FLASH_ROW_SIZE))
+                0x00000000                appl_start = (CY_APPL_NUM == 0x1)?appl1_start:appl2_start
+                0x00000001                cy_project_type_bootloader = (appl_start == 0x0)?0x1:0x0
+                0x00000000                cy_project_type_app_for_stack_and_copier = (CY_APP_FOR_STACK_AND_COPIER == 0x1)?0x1:0x0
+
+.text           0x00000000     0x1a8c
+ CREATE_OBJECT_SYMBOLS
+                0x00000000                PROVIDE (__cy_interrupt_vector, RomVectors)
+ *(.romvectors)
+ .romvectors    0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+                0x00000000                RomVectors
+                0x00000001                ASSERT ((. != __cy_interrupt_vector), No interrupt vector)
+                0x00000001                ASSERT (CY_APPL_ORIGIN?(SIZEOF (.cybootloader) <= CY_APPL_ORIGIN):0x1, Wrong image location)
+                0x00000010                PROVIDE (__cy_reset, Reset)
+ *(.text.Reset)
+ .text.Reset    0x00000010        0x8 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+                0x00000010                Reset
+                0x00000001                ASSERT ((. != __cy_reset), No reset code)
+ *(.psocinit)
+ .psocinit      0x00000018      0x210 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+                0x00000128                cyfitter_cfg
+                0x00000228                . = MAX (., 0x100)
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x00000228       0x60 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .text.main     0x00000288       0x88 .\CortexM0\ARM_GCC_541\Debug\main.o
+                0x00000288                main
+ .text.cfg_write_bytes32
+                0x00000310       0x34 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text.CYMEMZERO
+                0x00000344        0xc .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text.SetAnalogRoutingPumps
+                0x00000350       0x40 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+                0x00000350                SetAnalogRoutingPumps
+ .text.AnalogSetDefault
+                0x00000390       0x28 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .text.IntDefaultHandler
+                0x000003b8       0x10 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+                0x000003b8                IntDefaultHandler
+ .text.Start_c  0x000003c8       0x48 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+                0x000003c8                Start_c
+ .text.initialize_psoc
+                0x00000410       0x4c .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+                0x00000410                initialize_psoc
+ .text.UART_ScbModePostEnable
+                0x0000045c        0x8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .text.UART_Init
+                0x00000464        0x8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+                0x00000464                UART_Init
+ .text.UART_Enable
+                0x0000046c       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+                0x0000046c                UART_Enable
+ .text.UART_Start
+                0x00000484       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+                0x00000484                UART_Start
+ .text.UART_UartInit
+                0x000004a4       0xa8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+                0x000004a4                UART_UartInit
+ .text.UART_UartPostEnable
+                0x0000054c       0x2c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+                0x0000054c                UART_UartPostEnable
+ .text.UART_UartPutString
+                0x00000578       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+                0x00000578                UART_UartPutString
+ .text.CySysClkEcoReadStatus
+                0x00000590       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                0x00000590                CySysClkEcoReadStatus
+ .text.CyIntEnable
+                0x000005a0       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                0x000005a0                CyIntEnable
+ .text.CyIntDisable
+                0x000005b4       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                0x000005b4                CyIntDisable
+ .text.CyIntClearPending
+                0x000005c8       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                0x000005c8                CyIntClearPending
+ .text.CyHalt   0x000005dc        0x4 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                0x000005dc                CyHalt
+ .text.CyIntSetVector
+                0x000005e0       0x24 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                0x000005e0                CyIntSetVector
+ .text.CyIntSetPriority
+                0x00000604       0x4c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                0x00000604                CyIntSetPriority
+ .text.CyDelayUs
+                0x00000650       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                0x00000650                CyDelayUs
+ .text.CySysClkWriteImoFreq
+                0x00000664      0x164 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                0x00000664                CySysClkWriteImoFreq
+ .text.CySysClkEcoStart
+                0x000007c8       0x54 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                0x000007c8                CySysClkEcoStart
+ .text.CySysWdtLocked
+                0x0000081c       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .text.CySysClkWcoStart
+                0x00000830       0x40 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+                0x00000830                CySysClkWcoStart
+ .text.CySysClkWcoSetPowerMode
+                0x00000870       0x80 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+                0x00000870                CySysClkWcoSetPowerMode
+ .text.CySysWdtLock
+                0x000008f0       0x1c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+                0x000008f0                CySysWdtLock
+ .text.CySysWdtUnlock
+                0x0000090c       0x30 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+                0x0000090c                CySysWdtUnlock
+ .text.CySysWdtClearInterrupt
+                0x0000093c       0x4c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+                0x0000093c                CySysWdtClearInterrupt
+ .text.CySysWdtIsr
+                0x00000988       0xa4 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+                0x00000988                CySysWdtIsr
+ .text.CapSense_CsdHwBlockInit
+                0x00000a2c       0x7c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000a2c                CapSense_CsdHwBlockInit
+ .text.CapSense_Enable
+                0x00000aa8       0x40 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000aa8                CapSense_Enable
+ .text.CapSense_IsBusy
+                0x00000ae8       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000ae8                CapSense_IsBusy
+ .text.CapSense_ReadSensorRaw
+                0x00000af8       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000af8                CapSense_ReadSensorRaw
+ .text.CapSense_EnableSensor
+                0x00000b08       0x48 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000b08                CapSense_EnableSensor
+ .text.CapSense_DisableSensor
+                0x00000b50       0x70 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000b50                CapSense_DisableSensor
+ .text.CapSense_ClearSensors
+                0x00000bc0       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000bc0                CapSense_ClearSensors
+ .text.CapSense_SetShieldDelay
+                0x00000bd4       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000bd4                CapSense_SetShieldDelay
+ .text.CapSense_GetBitValue
+                0x00000bec       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000bec                CapSense_GetBitValue
+ .text.CapSense_FindNextSensor
+                0x00000c04       0x24 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000c04                CapSense_FindNextSensor
+ .text.CapSense_PreScan
+                0x00000c28      0x10c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000c28                CapSense_PreScan
+ .text.CapSense_ScanSensor
+                0x00000d34       0x1c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000d34                CapSense_ScanSensor
+ .text.CapSense_ScanEnabledWidgets
+                0x00000d50       0x38 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000d50                CapSense_ScanEnabledWidgets
+ .text.CapSense_PostScan
+                0x00000d88       0x90 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000d88                CapSense_PostScan
+ .text.CapSense_SetBitValue
+                0x00000e18       0x28 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000e18                CapSense_SetBitValue
+ .text.CapSense_GetSensorRaw
+                0x00000e40       0x2c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000e40                CapSense_GetSensorRaw
+ .text.CapSense_SetUnscannedSensorState
+                0x00000e6c        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000e6c                CapSense_SetUnscannedSensorState
+ .text.CapSense_Init
+                0x00000e78       0x24 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000e78                CapSense_Init
+ .text.CapSense_Start
+                0x00000e9c       0x38 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00000e9c                CapSense_Start
+ .text.CapSense_BaseInit
+                0x00000ed4       0x3c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x00000ed4                CapSense_BaseInit
+ .text.CapSense_InitializeSensorBaseline
+                0x00000f10       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x00000f10                CapSense_InitializeSensorBaseline
+ .text.CapSense_InitializeAllBaselines
+                0x00000f28       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x00000f28                CapSense_InitializeAllBaselines
+ .text.CapSense_CheckIsSensorActive
+                0x00000f3c       0xa8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x00000f3c                CapSense_CheckIsSensorActive
+ .text.CapSense_CheckIsWidgetActive
+                0x00000fe4       0x28 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x00000fe4                CapSense_CheckIsWidgetActive
+ .text.CapSense_IIR4Filter
+                0x0000100c        0xc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x0000100c                CapSense_IIR4Filter
+ .text.CapSense_UpdateBaselineNoThreshold
+                0x00001018      0x120 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x00001018                CapSense_UpdateBaselineNoThreshold
+ .text.CapSense_UpdateSensorBaseline
+                0x00001138       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x00001138                CapSense_UpdateSensorBaseline
+ .text.CapSense_UpdateEnabledBaselines
+                0x00001148       0x24 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x00001148                CapSense_UpdateEnabledBaselines
+ .text.CapSense_ISR
+                0x0000116c       0x9c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+                0x0000116c                CapSense_ISR
+ .text.CapSense_UpdateThresholds
+                0x00001208       0x74 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+                0x00001208                CapSense_UpdateThresholds
+ .text.CapSense_SetAnalogSwitchesSrcDirect
+                0x0000127c       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+                0x0000127c                CapSense_SetAnalogSwitchesSrcDirect
+ .text.CapSense_DisableBaselineIDAC
+                0x0000128c       0x1c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+                0x0000128c                CapSense_DisableBaselineIDAC
+ .text.CapSense_EnableBaselineIDAC
+                0x000012a8       0x50 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+                0x000012a8                CapSense_EnableBaselineIDAC
+ .text.CapSense_AutoTune
+                0x000012f8       0xa4 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+                0x000012f8                CapSense_AutoTune
+ .text.CapSense_SampleClk_StartEx
+                0x0000139c       0x1c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+                0x0000139c                CapSense_SampleClk_StartEx
+ .text.CapSense_SampleClk_Stop
+                0x000013b8       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+                0x000013b8                CapSense_SampleClk_Stop
+ .text.CapSense_SampleClk_SetFractionalDividerRegister
+                0x000013d0       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+                0x000013d0                CapSense_SampleClk_SetFractionalDividerRegister
+ .text.CapSense_SenseClk_StartEx
+                0x000013f0       0x1c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+                0x000013f0                CapSense_SenseClk_StartEx
+ .text.CapSense_SenseClk_Stop
+                0x0000140c       0x18 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+                0x0000140c                CapSense_SenseClk_Stop
+ .text.CapSense_SenseClk_SetFractionalDividerRegister
+                0x00001424       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+                0x00001424                CapSense_SenseClk_SetFractionalDividerRegister
+ *fill*         0x00001444        0x4 
+ .text          0x00001448       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyBootAsmGnu.o)
+                0x00001448                CyDelayCycles
+                0x0000145a                CyEnterCriticalSection
+                0x00001462                CyExitCriticalSection
+ .text.UART_SpiUartWriteTxData
+                0x00001468       0x1c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+                0x00001468                UART_SpiUartWriteTxData
+ .text.CalibrateOneDAC_P4_v2_60
+                0x00001484       0x40 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+                0x00001484                CalibrateOneDAC_P4_v2_60
+ .text.CalibrateSensors_P4_v2_60
+                0x000014c4       0x22 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+                0x000014c4                CalibrateSensors_P4_v2_60
+ .text.TunePrescalers_P4_v2_60
+                0x000014e6       0x42 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+                0x000014e6                TunePrescalers_P4_v2_60
+ .text.TuneSensitivity_P4_v2_60
+                0x00001528       0xdc C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+                0x00001528                TuneSensitivity_P4_v2_60
+ .text.MeasureNoiseEnvelope_P4_v2_60
+                0x00001604       0xfc C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+                0x00001604                MeasureNoiseEnvelope_P4_v2_60
+ .text.CalculateThresholds_P4_v2_60
+                0x00001700       0x36 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+                0x00001700                CalculateThresholds_P4_v2_60
+ *fill*         0x00001736        0x2 
+ .text          0x00001738      0x114 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+                0x00001738                __aeabi_uidiv
+                0x00001738                __udivsi3
+                0x00001844                __aeabi_uidivmod
+ .text          0x0000184c      0x1d4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_divsi3.o)
+                0x0000184c                __divsi3
+                0x0000184c                __aeabi_idiv
+                0x00001a18                __aeabi_idivmod
+ .text          0x00001a20        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x00001a20                __aeabi_idiv0
+                0x00001a20                __aeabi_ldiv0
+ .text.__errno  0x00001a24        0xc c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+                0x00001a24                __errno
+ .text.__libc_init_array
+                0x00001a30       0x4c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+                0x00001a30                __libc_init_array
+ .text.memset   0x00001a7c       0x10 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+                0x00001a7c                memset
+ *(.plt)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00001a8c        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00001a8c        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00001a8c        0x0 linker stubs
+ *(.bootloader)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ *(.gcc_except_table)
+
+.v4_bx          0x00001a8c        0x0
+ .v4_bx         0x00001a8c        0x0 linker stubs
+
+.iplt           0x00001a8c        0x0
+ .iplt          0x00001a8c        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x00001a8c        0x4
+ *(.eh_frame)
+ .eh_frame      0x00001a8c        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .eh_frame      0x00001a8c        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+                [!provide]                PROVIDE (__exidx_start, .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00001a90                __exidx_end = .
+
+.rodata         0x00001a90      0x1c8
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x00001a90       0x44 .\CortexM0\ARM_GCC_541\Debug\main.o
+                                 0x41 (size before relaxing)
+ .rodata        0x00001ad4       0x3c .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .rodata        0x00001b10       0x2e .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                0x00001b10                cyImoFreqMhz2Reg
+ *fill*         0x00001b3e        0x2 
+ .rodata        0x00001b40       0x68 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x00001b40                CapSense_portTable
+                0x00001b44                CapSense_pinShiftTbl
+                0x00001b48                CapSense_prtSelTbl
+                0x00001b64                CapSense_prtCfgTbl
+                0x00001b80                CapSense_prtDRTbl
+                0x00001b9c                CapSense_widgetNumber
+                0x00001ba0                CapSense_maskTable
+ .rodata        0x00001ba8        0x6 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x00001ba8                CapSense_rawDataIndex
+                0x00001bac                CapSense_numberOfSensors
+ *fill*         0x00001bae        0x2 
+ .rodata        0x00001bb0       0x6c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+                0x00001bb0                CapSense_configPointers
+                0x00001c0c                CapSense_prescalerTable
+ .rodata.str1.1
+                0x00001c1c        0x2 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+                0x00001c20                . = ALIGN (0x4)
+ *fill*         0x00001c1e        0x2 
+ *(.init)
+ .init          0x00001c20        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+                0x00001c20                _init
+ .init          0x00001c24        0x8 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+                0x00001c2c                . = ALIGN (0x4)
+                0x00001c2c                __preinit_array_start = .
+ *(.preinit_array)
+                0x00001c2c                __preinit_array_end = .
+                0x00001c2c                . = ALIGN (0x4)
+                0x00001c2c                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00001c2c        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .init_array    0x00001c30        0x4 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+                0x00001c34                __init_array_end = .
+                0x00001c34                . = ALIGN (0x4)
+ *(.fini)
+ .fini          0x00001c34        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+                0x00001c34                _fini
+ .fini          0x00001c38        0x8 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+                0x00001c40                . = ALIGN (0x4)
+                0x00001c40                __fini_array_start = .
+ *(.fini_array)
+ .fini_array    0x00001c40        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x00001c44                __fini_array_end = .
+                0x00001c44                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x00001c44                . = ALIGN (0x4)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+                0x00001c44                . = ALIGN (0x4)
+                0x00001c44                __cy_regions = .
+                0x00001c44        0x4 LONG 0x1c58 __cy_region_init_ram
+                0x00001c48        0x4 LONG 0x200000c0 __cy_region_start_data
+                0x00001c4c        0x4 LONG 0xa8 __cy_region_init_size_ram
+                0x00001c50        0x4 LONG 0xc8 __cy_region_zero_size_ram
+                0x00001c54                __cy_regions_end = .
+                0x00001c58                . = ALIGN (0x8)
+ *fill*         0x00001c54        0x4 
+                0x00001c58                _etext = .
+
+.cy_checksum_exclude
+                0x00001c58        0x0
+ *(.cy_checksum_exclude)
+
+.ramvectors     0x20000000       0xc0
+                0x20000000                __cy_region_start_ram = .
+ *(.ramvectors)
+ .ramvectors    0x20000000       0xc0 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+                0x20000000                CyRamVectors
+
+.noinit
+ *(.noinit)
+
+.data           0x200000c0       0xa8 load address 0x00001c58
+                0x200000c0                __cy_region_start_data = .
+ *(.jcr)
+ .jcr           0x200000c0        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .jcr           0x200000c0        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ *(.got.plt)
+ *(.got)
+ *(.shdata)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x200000c4       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                0x200000c4                CySysClkPumpConfig
+                0x200000c8                cydelay32kMs
+                0x200000cc                cydelayFreqKhz
+                0x200000d0                cydelayFreqMhz
+                0x200000d4                cydelayFreqHz
+ .data          0x200000d8        0x8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .data          0x200000e0       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x200000e0                CapSense_widgetResolution
+                0x200000e8                CapSense_sensorEnableMask
+                0x200000ec                CapSense_pcTable
+ .data          0x200000f4        0x7 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x200000f4                CapSense_debounce
+                0x200000f8                CapSense_lowBaselineReset
+                0x200000fa                CapSense_enableRawFilters
+ *fill*         0x200000fb        0x1 
+ .data          0x200000fc        0x2 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+                0x200000fc                CapSense_sensorSensitivity
+ *fill*         0x200000fe        0x2 
+ .data.impure_data
+                0x20000100       0x60 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000160        0x4 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+                0x20000160                _impure_ptr
+                0x20000168                . = ALIGN (0x8)
+ *fill*         0x20000164        0x4 
+ *(.ram)
+                0x20000168                _edata = .
+
+.igot.plt       0x20000168        0x0 load address 0x00001d00
+ .igot.plt      0x20000168        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.bss            0x20000168       0xc8 load address 0x00001d00
+                0x20000168                PROVIDE (__bss_start__, .)
+ *(.shbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x20000168       0x1c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .bss           0x20000184        0x4 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+                0x20000184                UART_initVar
+                0x20000186                UART_IntrTxMask
+ .bss           0x20000188       0x28 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .bss           0x200001b0        0xb .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x200001b0                CapSense_csdStatusVar
+                0x200001b4                CapSense_sensorRaw
+                0x200001b8                CapSense_sensorIndex
+                0x200001ba                CapSense_lowLevelTuningDone
+ *fill*         0x200001bb        0x1 
+ .bss           0x200001bc       0x11 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x200001bc                CapSense_sensorBaseline
+                0x200001c0                CapSense_sensorBaselineLow
+                0x200001c4                CapSense_sensorSignal
+                0x200001cc                CapSense_sensorOnMask
+ .bss           0x200001cd        0x1 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+ *(COMMON)
+ *fill*         0x200001ce        0x2 
+ COMMON         0x200001d0       0x1e .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                0x200001d0                CapSense_csdTrim1
+                0x200001d4                CapSense_scanSpeedTbl
+                0x200001d8                CapSense_sensorEnableMaskBackup
+                0x200001dc                CapSense_senseClkDividerVal
+                0x200001e0                CapSense_modulationIDAC
+                0x200001e4                CapSense_compensationIDAC
+                0x200001e8                CapSense_unscannedSnsDriveMode
+                0x200001ec                CapSense_sampleClkDividerVal
+ *fill*         0x200001ee        0x2 
+ COMMON         0x200001f0       0x16 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                0x200001f0                CapSense_noiseThreshold
+                0x200001f4                CapSense_lowBaselineResetCnt
+                0x200001f8                CapSense_negativeNoiseThreshold
+                0x200001fc                CapSense_rawFilterData1
+                0x20000200                CapSense_hysteresis
+                0x20000204                CapSense_fingerThreshold
+ *fill*         0x20000206        0x2 
+ COMMON         0x20000208       0x26 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+                0x20000208                CapSense_runningDifferenceTbl
+                0x2000020c                CapSense_signRegisterTbl
+                0x20000210                CapSense_sampleMaxTbl
+                0x20000214                CapSense_noiseEnvelopeTbl
+                0x20000218                CapSense_previousSampleTbl
+                0x2000021c                CapSense_sampleMinTbl
+                0x20000220                CapSense_config
+                0x2000022c                CapSense_kValueTbl
+                0x20000230                . = ALIGN (0x8)
+ *fill*         0x2000022e        0x2 
+ *(.ram.b)
+                0x20000230                _end = .
+                0x20000230                __end = .
+                0x20000230                PROVIDE (end, .)
+                0x20000230                PROVIDE (__bss_end__, .)
+                0x00001c58                __cy_region_init_ram = LOADADDR (.data)
+                0x000000a8                __cy_region_init_size_ram = (_edata - ADDR (.data))
+                0x000000c8                __cy_region_zero_size_ram = (_end - _edata)
+
+.heap           0x20000230       0x80 load address 0x00001d00
+                0x20000230                . = _end
+                0x200002b0                . = (. + 0x80)
+ *fill*         0x20000230       0x80 
+                0x200002b0                __cy_heap_limit = .
+
+.stack          0x20007800      0x800
+                0x20007800                __cy_stack_limit = .
+                0x20008000                . = (. + 0x800)
+ *fill*         0x20007800      0x800 
+                0x00000001                ASSERT ((__cy_stack_limit >= __cy_heap_limit), region RAM overflowed with stack)
+                0x00000000                cy_checksum_exclude_size = (CY_APPL_LOADABLE == 0x1)?SIZEOF (.cy_checksum_exclude):0x0
+                0x00000001                ASSERT ((cy_checksum_exclude_size <= CY_CHECKSUM_EXCLUDE_SIZE), CY_BOOT: Section .cy_checksum_exclude size exceedes specified limit.)
+                0x0003ffc0                cyloadermeta_start = (cy_project_type_bootloader || cy_project_type_app_for_stack_and_copier)?(LENGTH (rom) - CY_METADATA_SIZE):0xf0000000
+
+.cyloadermeta
+ *(.cyloadermeta)
+                0x0003ffc0                cyloadablemeta_start = cy_project_type_app_for_stack_and_copier?((LENGTH (rom) - CY_FLASH_ROW_SIZE) - CY_METADATA_SIZE):((LENGTH (rom) - (CY_FLASH_ROW_SIZE * (CY_APPL_NUM - 0x1))) - CY_METADATA_SIZE)
+
+.cyloadablemeta
+ *(.cyloadablemeta)
+
+.cyflashprotect
+                0x90400000       0x80
+ *(.cyflashprotect)
+ .cyflashprotect
+                0x90400000       0x80 .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+                0x90400000                cy_meta_flashprotect
+
+.cymeta         0x90500000        0xc
+ *(.cymeta)
+ .cymeta        0x90500000        0xc .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+                0x90500000                cy_metadata
+
+.cychipprotect  0x90600000        0x1
+ *(.cychipprotect)
+ .cychipprotect
+                0x90600000        0x1 .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+                0x90600000                cy_meta_chipprotect
+
+.rel.dyn        0x00001d00        0x0 load address 0x90600004
+ .rel.iplt      0x00001d00        0x0 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x948
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 .\CortexM0\ARM_GCC_541\Debug\main.o
+ .debug_aranges
+                0x00000020       0x48 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_aranges
+                0x00000068       0x18 .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+ .debug_aranges
+                0x00000080       0x48 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .debug_aranges
+                0x000000c8       0x58 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .debug_aranges
+                0x00000120       0x90 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .debug_aranges
+                0x000001b0      0x1d0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .debug_aranges
+                0x00000380      0x188 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .debug_aranges
+                0x00000508      0x150 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .debug_aranges
+                0x00000658      0x128 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .debug_aranges
+                0x00000780       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+ .debug_aranges
+                0x000007a0       0x60 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .debug_aranges
+                0x00000800       0x40 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .debug_aranges
+                0x00000840       0x40 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .debug_aranges
+                0x00000880       0x20 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyBootAsmGnu.o)
+ .debug_aranges
+                0x000008a0       0x60 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .debug_aranges
+                0x00000900       0x48 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x61b2
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x201 .\CortexM0\ARM_GCC_541\Debug\main.o
+ .debug_info    0x00000201      0x499 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_info    0x0000069a       0xf8 .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+ .debug_info    0x00000792      0x3a2 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .debug_info    0x00000b34      0x23a .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .debug_info    0x00000d6e      0x3b5 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .debug_info    0x00001123      0xd2b .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .debug_info    0x00001e4e     0x1071 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .debug_info    0x00002ebf     0x107e .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .debug_info    0x00003f3d      0xdf3 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .debug_info    0x00004d30      0x198 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+ .debug_info    0x00004ec8      0x77d .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .debug_info    0x00005645      0x166 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .debug_info    0x000057ab      0x166 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .debug_info    0x00005911       0x9f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyBootAsmGnu.o)
+ .debug_info    0x000059b0      0x220 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .debug_info    0x00005bd0      0x5e2 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+
+.debug_abbrev   0x00000000     0x155b
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xab .\CortexM0\ARM_GCC_541\Debug\main.o
+ .debug_abbrev  0x000000ab      0x1cf .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_abbrev  0x0000027a       0x5d .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+ .debug_abbrev  0x000002d7      0x1d7 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .debug_abbrev  0x000004ae       0xd5 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .debug_abbrev  0x00000583      0x132 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .debug_abbrev  0x000006b5      0x1e0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .debug_abbrev  0x00000895      0x248 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .debug_abbrev  0x00000add      0x188 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .debug_abbrev  0x00000c65      0x226 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .debug_abbrev  0x00000e8b       0xca .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+ .debug_abbrev  0x00000f55      0x1d5 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .debug_abbrev  0x0000112a       0xb7 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .debug_abbrev  0x000011e1       0xb7 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .debug_abbrev  0x00001298       0x14 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyBootAsmGnu.o)
+ .debug_abbrev  0x000012ac      0x14f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .debug_abbrev  0x000013fb      0x160 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+
+.debug_line     0x00000000     0x23c7
+ *(.debug_line)
+ .debug_line    0x00000000       0xd0 .\CortexM0\ARM_GCC_541\Debug\main.o
+ .debug_line    0x000000d0      0x1b4 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_line    0x00000284      0x141 .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+ .debug_line    0x000003c5      0x236 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .debug_line    0x000005fb      0x108 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .debug_line    0x00000703      0x1cf .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .debug_line    0x000008d2      0x553 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .debug_line    0x00000e25      0x5db .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .debug_line    0x00001400      0x4c8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .debug_line    0x000018c8      0x3d1 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .debug_line    0x00001c99       0xac .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+ .debug_line    0x00001d45      0x1a8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .debug_line    0x00001eed       0xc5 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .debug_line    0x00001fb2       0xc4 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .debug_line    0x00002076       0x68 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyBootAsmGnu.o)
+ .debug_line    0x000020de      0x11a .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .debug_line    0x000021f8      0x1cf C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+
+.debug_frame    0x00000000     0x1818
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x38 .\CortexM0\ARM_GCC_541\Debug\main.o
+ .debug_frame   0x00000038       0xb8 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_frame   0x000000f0       0xbc .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .debug_frame   0x000001ac       0xd8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .debug_frame   0x00000284      0x144 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .debug_frame   0x000003c8      0x4a4 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .debug_frame   0x0000086c      0x4a8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .debug_frame   0x00000d14      0x3a8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .debug_frame   0x000010bc      0x2fc .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .debug_frame   0x000013b8       0x2c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+ .debug_frame   0x000013e4       0xec .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .debug_frame   0x000014d0       0x6c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .debug_frame   0x0000153c       0x6c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .debug_frame   0x000015a8       0xb0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .debug_frame   0x00001658       0xec C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+ .debug_frame   0x00001744       0x20 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00001764       0x20 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_divsi3.o)
+ .debug_frame   0x00001784       0x20 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x000017a4       0x28 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x000017cc       0x2c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x000017f8       0x20 c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+
+.debug_str      0x00000000     0x2af1
+ *(.debug_str)
+ .debug_str     0x00000000      0x23d .\CortexM0\ARM_GCC_541\Debug\main.o
+                                0x27d (size before relaxing)
+ .debug_str     0x0000023d      0x1aa .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+                                0x35e (size before relaxing)
+ .debug_str     0x000003e7       0x63 .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+                                0x1d7 (size before relaxing)
+ .debug_str     0x0000044a      0x13a .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+                                0x310 (size before relaxing)
+ .debug_str     0x00000584       0xf7 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+                                0x2a6 (size before relaxing)
+ .debug_str     0x0000067b      0x1d8 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+                                0x3d7 (size before relaxing)
+ .debug_str     0x00000853      0x5d7 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+                                0x807 (size before relaxing)
+ .debug_str     0x00000e2a      0x6e3 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+                                0x947 (size before relaxing)
+ .debug_str     0x0000150d      0x80c .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+                                0xa9e (size before relaxing)
+ .debug_str     0x00001d19      0x6ce .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+                                0xab2 (size before relaxing)
+ .debug_str     0x000023e7       0x48 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+                                0x29e (size before relaxing)
+ .debug_str     0x0000242f      0x25a .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+                                0x7da (size before relaxing)
+ .debug_str     0x00002689       0xb6 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+                                0x2a8 (size before relaxing)
+ .debug_str     0x0000273f       0x7f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+                                0x2a2 (size before relaxing)
+ .debug_str     0x000027be       0xe3 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+                                0x2dd (size before relaxing)
+ .debug_str     0x000028a1      0x250 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+                                0x59d (size before relaxing)
+
+.debug_loc      0x00000000     0x38b7
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xee .\CortexM0\ARM_GCC_541\Debug\main.o
+ .debug_loc     0x000000ee      0x14d .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_loc     0x0000023b      0x14f .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .debug_loc     0x0000038a       0x7e .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .debug_loc     0x00000408      0x223 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .debug_loc     0x0000062b      0x818 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .debug_loc     0x00000e43      0xdaa .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .debug_loc     0x00001bed      0xb10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .debug_loc     0x000026fd      0x79b .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .debug_loc     0x00002e98      0x20f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .debug_loc     0x000030a7       0x76 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .debug_loc     0x0000311d       0x76 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .debug_loc     0x00003193       0x96 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .debug_loc     0x00003229      0x68e C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_ranges   0x00000000      0x820
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x10 .\CortexM0\ARM_GCC_541\Debug\main.o
+ .debug_ranges  0x00000010       0x38 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .debug_ranges  0x00000048       0x38 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .debug_ranges  0x00000080       0x48 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .debug_ranges  0x000000c8       0x80 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .debug_ranges  0x00000148      0x1c0 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .debug_ranges  0x00000308      0x178 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .debug_ranges  0x00000480      0x140 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .debug_ranges  0x000005c0      0x118 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .debug_ranges  0x000006d8       0x10 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+ .debug_ranges  0x000006e8       0x50 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .debug_ranges  0x00000738       0x30 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .debug_ranges  0x00000768       0x30 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .debug_ranges  0x00000798       0x50 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .debug_ranges  0x000007e8       0x38 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+
+.comment        0x00000000       0xde
+ .comment       0x00000000       0x6e .\CortexM0\ARM_GCC_541\Debug\main.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .comment       0x0000006e       0x6f .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .comment       0x0000006e       0x70 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+                                 0x71 (size before relaxing)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x31 .\CortexM0\ARM_GCC_541\Debug\main.o
+ .ARM.attributes
+                0x00000096       0x31 .\CortexM0\ARM_GCC_541\Debug\cyfitter_cfg.o
+ .ARM.attributes
+                0x000000c7       0x31 .\CortexM0\ARM_GCC_541\Debug\cymetadata.o
+ .ARM.attributes
+                0x000000f8       0x31 .\CortexM0\ARM_GCC_541\Debug\Cm0Start.o
+ .ARM.attributes
+                0x00000129       0x31 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART.o)
+ .ARM.attributes
+                0x0000015a       0x31 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_UART.o)
+ .ARM.attributes
+                0x0000018b       0x31 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLib.o)
+ .ARM.attributes
+                0x000001bc       0x31 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyLFClk.o)
+ .ARM.attributes
+                0x000001ed       0x31 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense.o)
+ .ARM.attributes
+                0x0000021e       0x31 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_CSHL.o)
+ .ARM.attributes
+                0x0000024f       0x31 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_INT.o)
+ .ARM.attributes
+                0x00000280       0x31 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SMS.o)
+ .ARM.attributes
+                0x000002b1       0x31 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SampleClk.o)
+ .ARM.attributes
+                0x000002e2       0x31 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CapSense_SenseClk.o)
+ .ARM.attributes
+                0x00000313       0x21 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(CyBootAsmGnu.o)
+ .ARM.attributes
+                0x00000334       0x31 .\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.a(UART_SPI_UART.o)
+ .ARM.attributes
+                0x00000365       0x31 C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\CapSense_CSD_P4_v2_60\PSoC4\Library\CapsenseP4Library_GCC.a(CSD_P4_SmartSense_v2_60.o)
+ .ARM.attributes
+                0x00000396       0x1e c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000003b4       0x1e c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000003d2       0x1e c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000003f0       0x2c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000041c       0x2c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000448       0x2c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000474       0x2c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000004a0       0x2c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000004cc       0x2c c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtend.o
+ .ARM.attributes
+                0x000004f8       0x1e c:/program files (x86)/cypress/psoc creator/4.2/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/crtn.o
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson13-Practice.cydsn\CortexM0\ARM_GCC_541\Debug\Lesson13-Practice.elf elf32-littlearm)

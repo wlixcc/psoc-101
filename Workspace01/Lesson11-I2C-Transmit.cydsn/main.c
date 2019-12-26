@@ -23,7 +23,7 @@ int main(void)
     PWM_Start();
     
     I2C_Start();
-    //第一个参数决定了buffersize, 第二个参数决定可读写的size
+    //第一个参数决定了buffersize, 第二个参数决定可写的size
     I2C_EzI2CSetBuffer1(1, 0, i2cbuffer);
    
     for(;;)

@@ -3,7 +3,7 @@
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
 <CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="Workspace01" persistent="Workspace01.cywrk" platform="NOT_USED">
-<current_project name=".\Lesson11-I2C-Transmit.cydsn\Lesson11-I2C-Transmit.cyprj" />
+<current_project name=".\Lesson16-Sleep.cydsn\Lesson16-Sleep.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
@@ -18,6 +18,12 @@
 <v>.\Lesson09-Timer.cydsn\Lesson09-Timer.cyprj</v>
 <v>.\Lesson10-I2C.cydsn\Lesson10-I2C.cyprj</v>
 <v>.\Lesson11-I2C-Transmit.cydsn\Lesson11-I2C-Transmit.cyprj</v>
+<v>.\Lesson12-Uart.cydsn\Lesson12-Uart.cyprj</v>
+<v>.\Lesson13-CapSense.cydsn\Lesson13-CapSense.cyprj</v>
+<v>.\Lesson13-Practice.cydsn\Lesson13-Practice.cyprj</v>
+<v>.\Lesson14-Status Register.cydsn\Lesson14-Status Register.cyprj</v>
+<v>.\Lesson15-controlRegister.cydsn\Lesson15-controlRegister.cyprj</v>
+<v>.\Lesson16-Sleep.cydsn\Lesson16-Sleep.cyprj</v>
 </projects>
 <workspace_id v="838e946b-63fe-4966-8e51-de861d98c467" />
 <WriteAppVersionLastSavedWith v="4.2.0.641" />

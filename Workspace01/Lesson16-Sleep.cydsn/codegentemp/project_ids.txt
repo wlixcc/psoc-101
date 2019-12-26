@@ -1,0 +1,22 @@
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lession01-OutputPin.cydsn\Lession01-OutputPin.cyprj|7d2cd460-e943-429b-aa77-b53140539bc3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|daced4c5-7271-4066-ba3d-d5e797487aae
+C:\Users\wl\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|c8516f22-bb87-4af4-93f1-d0c6ba24c0a2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0c829395-733d-4381-b7d7-97dbdd0e0a41
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a434a8ae-ef4f-40ad-b206-c3860eda26bf
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|f1f47255-a03d-418e-a927-83301c31c825
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson02-InputPin.cydsn\Lesson02-InputPin.cyprj|73d93923-1d3c-4d20-9b22-938f21c4db51
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson03-Interrupt.cydsn\Lesson03-Interrupt.cyprj|c9fb6766-1238-4342-9ef0-56ee8d9918e3
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson04-HardwarePin.cydsn\Lesson04-HardwarePin.cyprj|f8b6af72-1e3e-44ce-ad97-41f9342f4cf8
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson05-Toggle Flip-Flop.cydsn\Lesson05-Toggle Flip-Flop.cyprj|6de680a9-3b45-41f6-99d9-261234e4e85c
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson06-Basic Counter.cydsn\Lesson06-Basic Counter.cyprj|95ab2b62-521e-435f-9cd4-9c4325fbaa1b
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson07-Counter.cydsn\Lesson07-Counter.cyprj|081fe791-8869-4670-95c0-b5c976cad424
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson08-PWM.cydsn\Lesson08-PWM.cyprj|6484a89f-312c-4bb5-9ea5-afffb2569afe
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson09-Timer.cydsn\Lesson09-Timer.cyprj|ad442fff-b944-426d-b1ec-05592913957a
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson10-I2C.cydsn\Lesson10-I2C.cyprj|0d2d50f2-8689-4837-b0a9-1fb07be86f5f
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson11-I2C-Transmit.cydsn\Lesson11-I2C-Transmit.cyprj|835db902-1814-4d7e-ab1d-e35611d157bc
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson13-CapSense.cydsn\Lesson13-CapSense.cyprj|03f3d747-e43a-4e8c-8a53-4363f3bb7b82
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson12-Uart.cydsn\Lesson12-Uart.cyprj|70df9a97-3f80-4552-a9e8-603f8785a03c
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson13-Practice.cydsn\Lesson13-Practice.cyprj|60960e68-bd76-4d94-ac33-c436324bfd35
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson14-Status Register.cydsn\Lesson14-Status Register.cyprj|6b4b695a-f97f-497f-b574-eca131e990ca
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson15-controlRegister.cydsn\Lesson15-controlRegister.cyprj|6e7a5464-9be2-4768-b569-f3e6fee078a5
+C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\Lesson16-Sleep.cyprj|9148e571-02d1-41c5-97ca-566cbd15d9de
