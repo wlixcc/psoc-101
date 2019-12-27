@@ -72,8 +72,27 @@
 1. I2C组件配置好以后还要配置引脚 
 
 ## 11. I2C Transmit
-> 通过I2C发送数据
-> 
+> 把数据写入buffer, 通过`Bridege control panel`读取
+
+
+## 12. UART
+1. 下载`teraterm`调试工具
+2. 拖选`UART(SCB mode)`,一般都适用这个组件
+
+## 13. CapSense
+
+1. `CapSense CSD`组件
+
+## 14. Status Register
+
+1. 可以用这个组件来读取数字信号
+
+
+## 15. Control Register
+
+1. 可以生成数字信号控制硬件
+
+## 16. Sleep
 
 ## 参考链接
 
