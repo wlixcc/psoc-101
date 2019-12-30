@@ -13,9 +13,10 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Workspace01\Lesson16-Sleep\Lesson16-Sleep.cydwr">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Workspace01\Lesson08-PWM">
 <ExpandedNodeIds>
 <v>Workspace01</v>
+<v>Workspace01\Lession01-OutputPin</v>
 <v>Workspace01\Lession01-OutputPin\TopDesign</v>
 <v>Workspace01\Lession01-OutputPin\Lession01-OutputPin.cydwr\Pins</v>
 <v>Workspace01\Lession01-OutputPin\Lession01-OutputPin.cydwr\Analog</v>
@@ -259,7 +260,6 @@
 <v>Workspace01\Lesson15-controlRegister\Source Files</v>
 <v>Workspace01\Lesson15-controlRegister\Source Files\main.c</v>
 <v>Workspace01\Lesson15-controlRegister\Generated_Source\PSoC4</v>
-<v>Workspace01\Lesson16-Sleep</v>
 <v>Workspace01\Lesson16-Sleep\TopDesign</v>
 <v>Workspace01\Lesson16-Sleep\Lesson16-Sleep.cydwr</v>
 <v>Workspace01\Lesson16-Sleep\Lesson16-Sleep.cydwr\Pins</v>
@@ -279,6 +279,13 @@
 <VisibleNodeIds>
 <v>Workspace01</v>
 <v>Workspace01\Lession01-OutputPin</v>
+<v>Workspace01\Lession01-OutputPin\TopDesign</v>
+<v>Workspace01\Lession01-OutputPin\Lession01-OutputPin.cydwr</v>
+<v>Workspace01\Lession01-OutputPin\Header Files</v>
+<v>Workspace01\Lession01-OutputPin\Header Files\cyapicallbacks.h</v>
+<v>Workspace01\Lession01-OutputPin\Source Files</v>
+<v>Workspace01\Lession01-OutputPin\Source Files\main.c</v>
+<v>Workspace01\Lession01-OutputPin\Generated_Source</v>
 <v>Workspace01\Lesson02-InputPin</v>
 <v>Workspace01\Lesson03-Interrupt</v>
 <v>Workspace01\Lesson04-HardwarePin</v>
@@ -295,21 +302,6 @@
 <v>Workspace01\Lesson14-Status Register</v>
 <v>Workspace01\Lesson15-controlRegister</v>
 <v>Workspace01\Lesson16-Sleep</v>
-<v>Workspace01\Lesson16-Sleep\TopDesign</v>
-<v>Workspace01\Lesson16-Sleep\Lesson16-Sleep.cydwr</v>
-<v>Workspace01\Lesson16-Sleep\Lesson16-Sleep.cydwr\Pins</v>
-<v>Workspace01\Lesson16-Sleep\Lesson16-Sleep.cydwr\Analog</v>
-<v>Workspace01\Lesson16-Sleep\Lesson16-Sleep.cydwr\DMA</v>
-<v>Workspace01\Lesson16-Sleep\Lesson16-Sleep.cydwr\Clocks</v>
-<v>Workspace01\Lesson16-Sleep\Lesson16-Sleep.cydwr\Interrupts</v>
-<v>Workspace01\Lesson16-Sleep\Lesson16-Sleep.cydwr\System</v>
-<v>Workspace01\Lesson16-Sleep\Lesson16-Sleep.cydwr\Directives</v>
-<v>Workspace01\Lesson16-Sleep\Lesson16-Sleep.cydwr\Flash Security</v>
-<v>Workspace01\Lesson16-Sleep\Header Files</v>
-<v>Workspace01\Lesson16-Sleep\Header Files\cyapicallbacks.h</v>
-<v>Workspace01\Lesson16-Sleep\Source Files</v>
-<v>Workspace01\Lesson16-Sleep\Source Files\main.c</v>
-<v>Workspace01\Lesson16-Sleep\Generated_Source</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Workspace01\Lesson16-Sleep\TopDesign\TopDesign.cysch">
@@ -1107,6 +1099,9 @@
 <v>Workspace01\Lesson02-InputPin\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Green_PM.lst</v>
 <v>Workspace01\Lesson02-InputPin\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Red.lst</v>
 <v>Workspace01\Lesson02-InputPin\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Red_PM.lst</v>
+<v>Workspace01\Lesson02-InputPin\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_SW2.lst</v>
+<v>Workspace01\Lesson02-InputPin\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_SW2_PM.lst</v>
+<v>Workspace01\Lesson02-InputPin\CortexM0\ARM_GCC_541\Debug\Lesson02-InputPin.elf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -1406,14 +1401,10 @@
 <v>Workspace01\Lesson16-Sleep\System Reference Guides\cy_lfclk_v1_20</v>
 <v>Workspace01\Lesson16-Sleep\BLE_v3_50.pdf</v>
 <v>Workspace01\Lesson16-Sleep\cy_clock_v2_20.pdf</v>
-<v>Workspace01\Lesson16-Sleep\cy_gsref_v2_10.pdf</v>
 <v>Workspace01\Lesson16-Sleep\cy_isr_v1_70</v>
 <v>Workspace01\Lesson16-Sleep\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
 <v>Workspace01\Lesson16-Sleep\cy_pins_v2_20</v>
 <v>Workspace01\Lesson16-Sleep\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
-<v>Workspace01\Lesson16-Sleep\LPComp_P4_v2_20</v>
-<v>Workspace01\Lesson16-Sleep\LPComp_P4_v2_20\LPComp_P4_v2_20.pdf</v>
-<v>Workspace01\Lesson16-Sleep\RTC_P4_v1_30.pdf</v>
 <v>Workspace01\Lesson16-Sleep\SCB_P4_v4_0</v>
 <v>Workspace01\Lesson16-Sleep\SCB_P4_v4_0\SCB_P4_v4_0.pdf</v>
 <v>Workspace01\Lesson16-Sleep\TCPWM_P4_v2_10</v>
@@ -1473,6 +1464,9 @@
 <v>Workspace01\Lesson04-HardwarePin\System Reference Guides\cy_dmac_v1_10</v>
 <v>Workspace01\Lesson04-HardwarePin\System Reference Guides\cy_lfclk_v1_20</v>
 <v>Workspace01\Lesson04-HardwarePin\cy_pins_v2_20</v>
+<v>Workspace01\Lesson04-HardwarePin\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Workspace01\Lesson04-HardwarePin\Gnd_v1_0.pdf</v>
+<v>Workspace01\Lesson04-HardwarePin\LED_v1_0</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
@@ -1492,10 +1486,17 @@
 <name v=".\Lesson16-Sleep.cydsn\Generated_Source\PSoC4\cyPm.c" />
 <name v=".\Lesson16-Sleep.cydsn\TopDesign\TopDesign.cysch" />
 <name v=".\Lesson16-Sleep.cydsn\Lesson16-Sleep.cydwr" />
-<name v=".\Lesson16-Sleep.cydsn\CortexM0\ARM_GCC_541\Debug\Lesson16-Sleep.map" />
-<name v=".\Lesson16-Sleep.cydsn\CortexM0\ARM_GCC_541\Debug\Lesson16-Sleep.elf" />
-<name v=".\Lesson16-Sleep.cydsn\CortexM0\ARM_GCC_541\Debug\Lesson16-Sleep.hex" />
-<name v=".\Lesson16-Sleep.cydsn\Lesson16-Sleep.rpt" />
+<name v=".\Lession01-OutputPin.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Lession01-OutputPin.cydsn\Lession01-OutputPin.cydwr" />
+<name v=".\Lession01-OutputPin.cydsn\main.c" />
+<name v=".\Lesson02-InputPin.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Lesson02-InputPin.cydsn\main.c" />
+<name v=".\Lesson02-InputPin.cydsn\Lesson02-InputPin.cydwr" />
+<name v=".\Lesson04-HardwarePin.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Lesson04-HardwarePin.cydsn\Lesson04-HardwarePin.cydwr" />
+<name v=".\Lesson08-PWM.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Lesson08-PWM.cydsn\Lesson08-PWM.cydwr" />
+<name v=".\Lesson08-PWM.cydsn\main.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -1503,7 +1504,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1980, 811" SelectedTabbedMdiWindow="205a2ba2-96dd-4e00-ba94-748482123739"><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\main.c" Guid="314a4bf6-4f76-45dd-9fa6-83daa1a970ac" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\Generated_Source\PSoC4\Timer.h" Guid="ba666dff-31d0-4747-95a0-c07207be5ccd" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\Generated_Source\PSoC4\cyPm.c" Guid="b55f9cf9-f662-43e7-b654-7f089d3df805" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\TopDesign\TopDesign.cysch" Guid="89044fb2-8f58-4409-96c7-70e2bd2ce168" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\Lesson16-Sleep.cydwr" Guid="205a2ba2-96dd-4e00-ba94-748482123739" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\CortexM0\ARM_GCC_541\Debug\Lesson16-Sleep.map" Guid="fa9d152f-b242-42b4-b086-0c0db5b57925" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\CortexM0\ARM_GCC_541\Debug\Lesson16-Sleep.elf" Guid="c82717b0-eb33-46c2-bd8a-d803a8d591ef" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\CortexM0\ARM_GCC_541\Debug\Lesson16-Sleep.hex" Guid="6ac08d73-1f02-4637-8468-0099fb68e245" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\Lesson16-Sleep.rpt" Guid="3df8b8f1-03cb-4888-b8e2-c9dc7bfb5d99" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="815, 847" SelectedTabbedMdiWindow="7b4cf468-bd4e-4803-90dc-fb6db0ba036b"><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\main.c" Guid="314a4bf6-4f76-45dd-9fa6-83daa1a970ac" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\Generated_Source\PSoC4\Timer.h" Guid="ba666dff-31d0-4747-95a0-c07207be5ccd" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\Generated_Source\PSoC4\cyPm.c" Guid="b55f9cf9-f662-43e7-b654-7f089d3df805" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\TopDesign\TopDesign.cysch" Guid="89044fb2-8f58-4409-96c7-70e2bd2ce168" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson16-Sleep.cydsn\Lesson16-Sleep.cydwr" Guid="205a2ba2-96dd-4e00-ba94-748482123739" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="69c1ce06-78f0-4a22-95ff-daacfa1e9a0e" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lession01-OutputPin.cydsn\TopDesign\TopDesign.cysch" Guid="91f304e2-153a-436e-a658-bdc3538c1004" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lession01-OutputPin.cydsn\Lession01-OutputPin.cydwr" Guid="e2e77352-218f-4da2-9ccd-9ea9e2101fbd" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lession01-OutputPin.cydsn\main.c" Guid="1a131f90-8eb9-4f72-8f34-63fd99c7c293" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson02-InputPin.cydsn\TopDesign\TopDesign.cysch" Guid="f6c731d6-7304-4f01-92bc-5c992c0a18ff" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson02-InputPin.cydsn\main.c" Guid="fd252018-b655-414e-bcd0-777af34751d2" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson02-InputPin.cydsn\Lesson02-InputPin.cydwr" Guid="2ea72f20-8acc-47fa-96e8-bf26bb826fb4" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson04-HardwarePin.cydsn\TopDesign\TopDesign.cysch" Guid="1866fcfa-1fe0-45df-a7be-fb8359b67ae2" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson04-HardwarePin.cydsn\Lesson04-HardwarePin.cydwr" Guid="942679c9-0348-4100-bb83-429a8bc1deda" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson08-PWM.cydsn\TopDesign\TopDesign.cysch" Guid="94a1399e-e5c4-4bbf-9e44-73e2074e81b4" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson08-PWM.cydsn\Lesson08-PWM.cydwr" Guid="26e54130-018f-4209-b23e-49175c653d7e" /><DocumentWindow Key="C:\Users\wl\Desktop\cypressResource\projects\Workspace01\Lesson08-PWM.cydsn\main.c" Guid="7b4cf468-bd4e-4803-90dc-fb6db0ba036b" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

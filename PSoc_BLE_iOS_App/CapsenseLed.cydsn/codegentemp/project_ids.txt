@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|4735f97c-1b3e-4dc3-b411-ffdb79a94bf5
+C:\Users\wl\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|5f56108a-b103-4a62-a637-9145d413096d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|adf6a583-8282-40d6-83bb-1bb18816d6f5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|55610ea9-b929-470f-a2b6-d7d5a60781a3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b9752bbd-8e0c-4432-87bd-93d1ab51e234
+C:\Users\wl\Desktop\cypressResource\projects\PSoc_BLE_iOS_App\CapsenseLed.cydsn\CapsenseLed.cyprj|e2215fc7-9217-4818-b50b-bf6f9f59b744
